@@ -1,43 +1,43 @@
 proxies:
-  - {name: 🏳️‍🌈 香港原生(最新更新时间7月8日), server: 38.147.174.100, port: 23197, type: vmess, uuid: 01c1bbda-a8fe-4d1d-9aa4-ddf3c4305fad, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇭🇰 香港原生2, server: 38.147.174.9, port: 18553, type: vmess, uuid: cd0e492c-13f8-41eb-b868-1bcf87c2adf8, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🏳️‍🌈 香港原生1(最新更新时间7月10日), server: 38.147.174.194, port: 43688, type: vmess, uuid: e96308d7-aa10-4a10-9061-21363a3bb935, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 香港原生2, server: 38.147.174.246, port: 55976, type: vmess, uuid: 04594b3a-6cff-499a-89ee-85b0d3dcfcc4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体, server: ru1.lolvps.xyz, port: 50157, type: vmess, uuid: 2b8e4fc6-0112-4b26-8c17-1bfef9a3ff99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /6129CFHR, ws-headers: {Host: ru1.lolvps.xyz}}
   - {name: 🇷🇺 俄罗斯原生2-负载均衡-解锁流媒体, server: ru2.lolvps.xyz, port: 50158, type: vmess, uuid: 882fe300-feb5-4e7b-b272-829e791755ee, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /J56OYLY9, ws-headers: {Host: ru2.lolvps.xyz}}
   - {name: 🇺🇲 美国原生-更适合电信用户, server: 107.150.8.128, port: 39837, type: vmess, uuid: f0324d28-6942-4f79-b7ee-e010a3da8f8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇺🇲 美国原生-更适合联通用户, server: 128.1.148.11, port: 43259, type: vmess, uuid: 92f2e6ac-b171-4691-ba81-717a40f86a92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇺🇲 美国原生1-负载均衡-解锁流媒体, server: 45.155.223.117, port: 16086, type: vmess, uuid: c7e62a14-c8f8-455d-820e-bcb71fe800a6, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇺🇲 美国原生3-负载均衡-解锁流媒体, server: us3.lolvps.xyz, port: 60072, type: vmess, uuid: 08c2809f-0094-42c9-b04a-c19d06a1d898, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /G0DXUQOM, ws-headers: {Host: us3.lolvps.xyz}}
-  - {name: 🇭🇰 HK1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8010, type: ss, cipher: aes-128-gcm, password: 80ccce9a-1f59-4aef-a499-935e26595a0c}
-  - {name: 🇨🇳 TW1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8020, type: ss, cipher: aes-128-gcm, password: 80ccce9a-1f59-4aef-a499-935e26595a0c}
-  - {name: 🇯🇵 JP1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8030, type: ss, cipher: aes-128-gcm, password: 80ccce9a-1f59-4aef-a499-935e26595a0c}
-  - {name: 🇰🇷 KR1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8040, type: ss, cipher: aes-128-gcm, password: 80ccce9a-1f59-4aef-a499-935e26595a0c}
-  - {name: 🇸🇬 SG1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8050, type: ss, cipher: aes-128-gcm, password: 80ccce9a-1f59-4aef-a499-935e26595a0c}
-  - {name: 🇷🇺 RU1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8060, type: ss, cipher: aes-128-gcm, password: 80ccce9a-1f59-4aef-a499-935e26595a0c}
-  - {name: 🇺🇲 US1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8070, type: ss, cipher: aes-128-gcm, password: 80ccce9a-1f59-4aef-a499-935e26595a0c}
-  - {name: 🇸🇬 新加坡1-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35211, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: sg.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇸🇬 新加坡2-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35212, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: sg.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇸🇬 新加坡3-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35213, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: sg.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇸🇬 新加坡4-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35214, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: sg.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇯🇵 日本1-1000M带宽-解锁流媒体, server: jp.v2yyds.cc, port: 35213, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: jp.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇯🇵 日本2-1000M带宽-解锁流媒体, server: jp.v2yyds.cc, port: 35211, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: jp.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇯🇵 日本3-1000M带宽-解锁流媒体, server: jp.v2yyds.cc, port: 35212, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: jp.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇨🇳 台湾1-600M带宽-解锁流媒体, server: tw.suntory.lol, port: 38511, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: tw.suntory.lol, skip-cert-verify: false}
-  - {name: 🇨🇳 台湾2-600M带宽-解锁流媒体, server: tw.suntory.lol, port: 38512, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: tw.suntory.lol, skip-cert-verify: false}
-  - {name: 🇨🇳 台湾3-600M带宽-解锁流媒体, server: tw.suntory.lol, port: 38513, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: tw.suntory.lol, skip-cert-verify: false}
-  - {name: 🇬🇧 英国1-1000M-解锁流媒体, server: gb.v2yyds.com, port: 32911, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: gb.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇬🇧 英国2-1000M-解锁流媒体, server: gb.v2yyds.com, port: 32912, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: gb.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇬🇧 英国3-1000M-解锁流媒体, server: gb.v2yyds.com, port: 32913, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: gb.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇩🇪 德国1-500M-解锁流媒体, server: de.v2yyds.com, port: 31911, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: de.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇩🇪 德国2-500M-解锁流媒体, server: de.v2yyds.com, port: 31912, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: de.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇩🇪 德国3-500M-解锁流媒体, server: de.v2yyds.com, port: 31913, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: de.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯-100M, server: rn.v2yyds.com, port: 31911, type: trojan, password: a31dca69-ce00-4a6f-81b5-7b4247f4cc3e, sni: rn.v2yyds.com, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡1-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35211, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: sg.v2yyds.cc, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡2-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35212, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: sg.v2yyds.cc, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡3-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35213, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: sg.v2yyds.cc, skip-cert-verify: false}
+  - {name: 🇸🇬 新加坡4-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35214, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: sg.v2yyds.cc, skip-cert-verify: false}
+  - {name: 🇯🇵 日本1-1000M带宽-解锁流媒体, server: jp.v2yyds.cc, port: 35213, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: jp.v2yyds.cc, skip-cert-verify: false}
+  - {name: 🇯🇵 日本2-1000M带宽-解锁流媒体, server: jp.v2yyds.cc, port: 35211, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: jp.v2yyds.cc, skip-cert-verify: false}
+  - {name: 🇯🇵 日本3-1000M带宽-解锁流媒体, server: jp.v2yyds.cc, port: 35212, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: jp.v2yyds.cc, skip-cert-verify: false}
+  - {name: 🇨🇳 台湾1-600M带宽-解锁流媒体, server: tw.suntory.lol, port: 38511, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: tw.suntory.lol, skip-cert-verify: false}
+  - {name: 🇨🇳 台湾2-600M带宽-解锁流媒体, server: tw.suntory.lol, port: 38512, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: tw.suntory.lol, skip-cert-verify: false}
+  - {name: 🇨🇳 台湾3-600M带宽-解锁流媒体, server: tw.suntory.lol, port: 38513, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: tw.suntory.lol, skip-cert-verify: false}
+  - {name: 🇬🇧 英国1-1000M-解锁流媒体, server: gb.v2yyds.com, port: 32911, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: gb.v2yyds.com, skip-cert-verify: false}
+  - {name: 🇬🇧 英国2-1000M-解锁流媒体, server: gb.v2yyds.com, port: 32912, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: gb.v2yyds.com, skip-cert-verify: false}
+  - {name: 🇬🇧 英国3-1000M-解锁流媒体, server: gb.v2yyds.com, port: 32913, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: gb.v2yyds.com, skip-cert-verify: false}
+  - {name: 🇩🇪 德国1-500M-解锁流媒体, server: de.v2yyds.com, port: 31911, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: de.v2yyds.com, skip-cert-verify: false}
+  - {name: 🇩🇪 德国2-500M-解锁流媒体, server: de.v2yyds.com, port: 31912, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: de.v2yyds.com, skip-cert-verify: false}
+  - {name: 🇩🇪 德国3-500M-解锁流媒体, server: de.v2yyds.com, port: 31913, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: de.v2yyds.com, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯-100M, server: rn.v2yyds.com, port: 31911, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: rn.v2yyds.com, skip-cert-verify: false}
+  - {name: 🇭🇰 HK1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8010, type: ss, cipher: aes-128-gcm, password: 18269676-71ae-476d-b6d3-26ca391424b9}
+  - {name: 🇨🇳 TW1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8020, type: ss, cipher: aes-128-gcm, password: 18269676-71ae-476d-b6d3-26ca391424b9}
+  - {name: 🇯🇵 JP1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8030, type: ss, cipher: aes-128-gcm, password: 18269676-71ae-476d-b6d3-26ca391424b9}
+  - {name: 🇰🇷 KR1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8040, type: ss, cipher: aes-128-gcm, password: 18269676-71ae-476d-b6d3-26ca391424b9}
+  - {name: 🇸🇬 SG1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8050, type: ss, cipher: aes-128-gcm, password: 18269676-71ae-476d-b6d3-26ca391424b9}
+  - {name: 🇷🇺 RU1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8060, type: ss, cipher: aes-128-gcm, password: 18269676-71ae-476d-b6d3-26ca391424b9}
+  - {name: 🇺🇲 US1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8070, type: ss, cipher: aes-128-gcm, password: 18269676-71ae-476d-b6d3-26ca391424b9}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🏳️‍🌈 香港原生(最新更新时间7月8日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月10日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇷🇺 俄罗斯原生2-负载均衡-解锁流媒体
@@ -45,13 +45,6 @@ proxy-groups:
       - 🇺🇲 美国原生-更适合联通用户
       - 🇺🇲 美国原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生3-负载均衡-解锁流媒体
-      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
-      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
-      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
-      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
-      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
-      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
-      - 🇺🇲 US1(IEPL)+-+负载均衡专线
       - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
@@ -69,12 +62,19 @@ proxy-groups:
       - 🇩🇪 德国2-500M-解锁流媒体
       - 🇩🇪 德国3-500M-解锁流媒体
       - 🇷🇺 俄罗斯-100M
+      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
+      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
+      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
+      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
+      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
+      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
+      - 🇺🇲 US1(IEPL)+-+负载均衡专线
   - name: ♻️ 自动选择
     type: url-test
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🏳️‍🌈 香港原生(最新更新时间7月8日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月10日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇷🇺 俄罗斯原生2-负载均衡-解锁流媒体
@@ -82,13 +82,6 @@ proxy-groups:
       - 🇺🇲 美国原生-更适合联通用户
       - 🇺🇲 美国原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生3-负载均衡-解锁流媒体
-      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
-      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
-      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
-      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
-      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
-      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
-      - 🇺🇲 US1(IEPL)+-+负载均衡专线
       - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
@@ -106,13 +99,20 @@ proxy-groups:
       - 🇩🇪 德国2-500M-解锁流媒体
       - 🇩🇪 德国3-500M-解锁流媒体
       - 🇷🇺 俄罗斯-100M
+      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
+      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
+      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
+      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
+      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
+      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
+      - 🇺🇲 US1(IEPL)+-+负载均衡专线
   - name: 🌍 国外媒体
     type: select
     proxies:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生(最新更新时间7月8日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月10日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇷🇺 俄罗斯原生2-负载均衡-解锁流媒体
@@ -120,13 +120,6 @@ proxy-groups:
       - 🇺🇲 美国原生-更适合联通用户
       - 🇺🇲 美国原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生3-负载均衡-解锁流媒体
-      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
-      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
-      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
-      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
-      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
-      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
-      - 🇺🇲 US1(IEPL)+-+负载均衡专线
       - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
@@ -144,12 +137,19 @@ proxy-groups:
       - 🇩🇪 德国2-500M-解锁流媒体
       - 🇩🇪 德国3-500M-解锁流媒体
       - 🇷🇺 俄罗斯-100M
+      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
+      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
+      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
+      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
+      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
+      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
+      - 🇺🇲 US1(IEPL)+-+负载均衡专线
   - name: 📲 电报信息
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生(最新更新时间7月8日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月10日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇷🇺 俄罗斯原生2-负载均衡-解锁流媒体
@@ -157,13 +157,6 @@ proxy-groups:
       - 🇺🇲 美国原生-更适合联通用户
       - 🇺🇲 美国原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生3-负载均衡-解锁流媒体
-      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
-      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
-      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
-      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
-      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
-      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
-      - 🇺🇲 US1(IEPL)+-+负载均衡专线
       - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
@@ -181,12 +174,19 @@ proxy-groups:
       - 🇩🇪 德国2-500M-解锁流媒体
       - 🇩🇪 德国3-500M-解锁流媒体
       - 🇷🇺 俄罗斯-100M
+      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
+      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
+      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
+      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
+      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
+      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
+      - 🇺🇲 US1(IEPL)+-+负载均衡专线
   - name: Ⓜ️ 微软服务
     type: select
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🏳️‍🌈 香港原生(最新更新时间7月8日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月10日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇷🇺 俄罗斯原生2-负载均衡-解锁流媒体
@@ -194,13 +194,6 @@ proxy-groups:
       - 🇺🇲 美国原生-更适合联通用户
       - 🇺🇲 美国原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生3-负载均衡-解锁流媒体
-      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
-      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
-      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
-      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
-      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
-      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
-      - 🇺🇲 US1(IEPL)+-+负载均衡专线
       - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
@@ -218,12 +211,19 @@ proxy-groups:
       - 🇩🇪 德国2-500M-解锁流媒体
       - 🇩🇪 德国3-500M-解锁流媒体
       - 🇷🇺 俄罗斯-100M
+      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
+      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
+      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
+      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
+      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
+      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
+      - 🇺🇲 US1(IEPL)+-+负载均衡专线
   - name: 🍎 苹果服务
     type: select
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生(最新更新时间7月8日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月10日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇷🇺 俄罗斯原生2-负载均衡-解锁流媒体
@@ -231,13 +231,6 @@ proxy-groups:
       - 🇺🇲 美国原生-更适合联通用户
       - 🇺🇲 美国原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生3-负载均衡-解锁流媒体
-      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
-      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
-      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
-      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
-      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
-      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
-      - 🇺🇲 US1(IEPL)+-+负载均衡专线
       - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
@@ -255,6 +248,13 @@ proxy-groups:
       - 🇩🇪 德国2-500M-解锁流媒体
       - 🇩🇪 德国3-500M-解锁流媒体
       - 🇷🇺 俄罗斯-100M
+      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
+      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
+      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
+      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
+      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
+      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
+      - 🇺🇲 US1(IEPL)+-+负载均衡专线
   - name: 🎯 全球直连
     type: select
     proxies:
@@ -277,7 +277,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🏳️‍🌈 香港原生(最新更新时间7月8日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月10日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇷🇺 俄罗斯原生2-负载均衡-解锁流媒体
@@ -285,13 +285,6 @@ proxy-groups:
       - 🇺🇲 美国原生-更适合联通用户
       - 🇺🇲 美国原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生3-负载均衡-解锁流媒体
-      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
-      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
-      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
-      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
-      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
-      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
-      - 🇺🇲 US1(IEPL)+-+负载均衡专线
       - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
       - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
@@ -309,6 +302,13 @@ proxy-groups:
       - 🇩🇪 德国2-500M-解锁流媒体
       - 🇩🇪 德国3-500M-解锁流媒体
       - 🇷🇺 俄罗斯-100M
+      - 🇭🇰 HK1(IEPL)+-+负载均衡专线
+      - 🇨🇳 TW1(IEPL)+-+负载均衡专线
+      - 🇯🇵 JP1(IEPL)+-+负载均衡专线
+      - 🇰🇷 KR1(IEPL)+-+负载均衡专线
+      - 🇸🇬 SG1(IEPL)+-+负载均衡专线
+      - 🇷🇺 RU1(IEPL)+-+负载均衡专线
+      - 🇺🇲 US1(IEPL)+-+负载均衡专线
 rules:
  - DOMAIN-SUFFIX,acl4.ssr,🎯 全球直连
  - DOMAIN-SUFFIX,ip6-localhost,🎯 全球直连
