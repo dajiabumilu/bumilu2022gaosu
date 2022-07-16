@@ -1,23 +1,9 @@
 proxies:
-  - {name: 🏳️‍🌈 香港原生1(最新更新时间7月14日), server: 38.147.174.194, port: 43688, type: vmess, uuid: e96308d7-aa10-4a10-9061-21363a3bb935, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🏳️‍🌈 香港原生1(最新更新时间7月15日), server: 38.147.174.194, port: 43688, type: vmess, uuid: e96308d7-aa10-4a10-9061-21363a3bb935, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇭🇰 香港原生2, server: 38.147.174.246, port: 55976, type: vmess, uuid: 04594b3a-6cff-499a-89ee-85b0d3dcfcc4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇸🇬 新加坡1-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35211, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: sg.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇸🇬 新加坡2-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35212, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: sg.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇸🇬 新加坡3-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35213, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: sg.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇸🇬 新加坡4-1000M带宽-解锁流媒体, server: sg.v2yyds.cc, port: 35214, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: sg.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇯🇵 日本1-1000M带宽-解锁流媒体, server: jp.v2yyds.cc, port: 35213, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: jp.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇯🇵 日本2-1000M带宽-解锁流媒体, server: jp.v2yyds.cc, port: 35211, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: jp.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇯🇵 日本3-1000M带宽-解锁流媒体, server: jp.v2yyds.cc, port: 35212, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: jp.v2yyds.cc, skip-cert-verify: false}
-  - {name: 🇨🇳 台湾1-600M带宽-解锁流媒体, server: tw.suntory.lol, port: 38511, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: tw.suntory.lol, skip-cert-verify: false}
-  - {name: 🇨🇳 台湾2-600M带宽-解锁流媒体, server: tw.suntory.lol, port: 38512, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: tw.suntory.lol, skip-cert-verify: false}
-  - {name: 🇨🇳 台湾3-600M带宽-解锁流媒体, server: tw.suntory.lol, port: 38513, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: tw.suntory.lol, skip-cert-verify: false}
-  - {name: 🇬🇧 英国1-1000M-解锁流媒体, server: gb.v2yyds.com, port: 32911, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: gb.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇬🇧 英国2-1000M-解锁流媒体, server: gb.v2yyds.com, port: 32912, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: gb.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇬🇧 英国3-1000M-解锁流媒体, server: gb.v2yyds.com, port: 32913, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: gb.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇩🇪 德国1-500M-解锁流媒体, server: de.v2yyds.com, port: 31911, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: de.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇩🇪 德国2-500M-解锁流媒体, server: de.v2yyds.com, port: 31912, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: de.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇩🇪 德国3-500M-解锁流媒体, server: de.v2yyds.com, port: 31913, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: de.v2yyds.com, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯-100M, server: rn.v2yyds.com, port: 31911, type: trojan, password: 0896373c-7cd9-4221-b50d-9634990d6751, sni: rn.v2yyds.com, skip-cert-verify: false}
+  - {name: 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体, server: ru1.lolvps.xyz, port: 50151, type: vmess, uuid: 2b8e4fc6-0112-4b26-8c17-1bfef9a3ff99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /6129CFHR, ws-headers: {Host: ru1.lolvps.xyz}}
+  - {name: 🇺🇲 美国原生-更适合电信用户, server: 107.150.8.128, port: 39837, type: vmess, uuid: f0324d28-6942-4f79-b7ee-e010a3da8f8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇺🇲 美国原生-更适合联通用户, server: 128.1.148.11, port: 43259, type: vmess, uuid: 92f2e6ac-b171-4691-ba81-717a40f86a92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇭🇰 HK1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8010, type: ss, cipher: aes-128-gcm, password: 3e5aba14-ec0b-40b8-955e-4f6b5d4d9109}
   - {name: 🇨🇳 TW1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8020, type: ss, cipher: aes-128-gcm, password: 3e5aba14-ec0b-40b8-955e-4f6b5d4d9109}
   - {name: 🇯🇵 JP1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8030, type: ss, cipher: aes-128-gcm, password: 3e5aba14-ec0b-40b8-955e-4f6b5d4d9109}
@@ -31,25 +17,11 @@ proxy-groups:
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🏳️‍🌈 香港原生1(最新更新时间7月14日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
       - 🇭🇰 香港原生2
-      - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡4-1000M带宽-解锁流媒体
-      - 🇯🇵 日本1-1000M带宽-解锁流媒体
-      - 🇯🇵 日本2-1000M带宽-解锁流媒体
-      - 🇯🇵 日本3-1000M带宽-解锁流媒体
-      - 🇨🇳 台湾1-600M带宽-解锁流媒体
-      - 🇨🇳 台湾2-600M带宽-解锁流媒体
-      - 🇨🇳 台湾3-600M带宽-解锁流媒体
-      - 🇬🇧 英国1-1000M-解锁流媒体
-      - 🇬🇧 英国2-1000M-解锁流媒体
-      - 🇬🇧 英国3-1000M-解锁流媒体
-      - 🇩🇪 德国1-500M-解锁流媒体
-      - 🇩🇪 德国2-500M-解锁流媒体
-      - 🇩🇪 德国3-500M-解锁流媒体
-      - 🇷🇺 俄罗斯-100M
+      - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
+      - 🇺🇲 美国原生-更适合电信用户
+      - 🇺🇲 美国原生-更适合联通用户
       - 🇭🇰 HK1(IEPL)+-+负载均衡专线
       - 🇨🇳 TW1(IEPL)+-+负载均衡专线
       - 🇯🇵 JP1(IEPL)+-+负载均衡专线
@@ -62,25 +34,11 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🏳️‍🌈 香港原生1(最新更新时间7月14日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
       - 🇭🇰 香港原生2
-      - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡4-1000M带宽-解锁流媒体
-      - 🇯🇵 日本1-1000M带宽-解锁流媒体
-      - 🇯🇵 日本2-1000M带宽-解锁流媒体
-      - 🇯🇵 日本3-1000M带宽-解锁流媒体
-      - 🇨🇳 台湾1-600M带宽-解锁流媒体
-      - 🇨🇳 台湾2-600M带宽-解锁流媒体
-      - 🇨🇳 台湾3-600M带宽-解锁流媒体
-      - 🇬🇧 英国1-1000M-解锁流媒体
-      - 🇬🇧 英国2-1000M-解锁流媒体
-      - 🇬🇧 英国3-1000M-解锁流媒体
-      - 🇩🇪 德国1-500M-解锁流媒体
-      - 🇩🇪 德国2-500M-解锁流媒体
-      - 🇩🇪 德国3-500M-解锁流媒体
-      - 🇷🇺 俄罗斯-100M
+      - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
+      - 🇺🇲 美国原生-更适合电信用户
+      - 🇺🇲 美国原生-更适合联通用户
       - 🇭🇰 HK1(IEPL)+-+负载均衡专线
       - 🇨🇳 TW1(IEPL)+-+负载均衡专线
       - 🇯🇵 JP1(IEPL)+-+负载均衡专线
@@ -94,25 +52,11 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生1(最新更新时间7月14日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
       - 🇭🇰 香港原生2
-      - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡4-1000M带宽-解锁流媒体
-      - 🇯🇵 日本1-1000M带宽-解锁流媒体
-      - 🇯🇵 日本2-1000M带宽-解锁流媒体
-      - 🇯🇵 日本3-1000M带宽-解锁流媒体
-      - 🇨🇳 台湾1-600M带宽-解锁流媒体
-      - 🇨🇳 台湾2-600M带宽-解锁流媒体
-      - 🇨🇳 台湾3-600M带宽-解锁流媒体
-      - 🇬🇧 英国1-1000M-解锁流媒体
-      - 🇬🇧 英国2-1000M-解锁流媒体
-      - 🇬🇧 英国3-1000M-解锁流媒体
-      - 🇩🇪 德国1-500M-解锁流媒体
-      - 🇩🇪 德国2-500M-解锁流媒体
-      - 🇩🇪 德国3-500M-解锁流媒体
-      - 🇷🇺 俄罗斯-100M
+      - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
+      - 🇺🇲 美国原生-更适合电信用户
+      - 🇺🇲 美国原生-更适合联通用户
       - 🇭🇰 HK1(IEPL)+-+负载均衡专线
       - 🇨🇳 TW1(IEPL)+-+负载均衡专线
       - 🇯🇵 JP1(IEPL)+-+负载均衡专线
@@ -125,25 +69,11 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生1(最新更新时间7月14日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
       - 🇭🇰 香港原生2
-      - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡4-1000M带宽-解锁流媒体
-      - 🇯🇵 日本1-1000M带宽-解锁流媒体
-      - 🇯🇵 日本2-1000M带宽-解锁流媒体
-      - 🇯🇵 日本3-1000M带宽-解锁流媒体
-      - 🇨🇳 台湾1-600M带宽-解锁流媒体
-      - 🇨🇳 台湾2-600M带宽-解锁流媒体
-      - 🇨🇳 台湾3-600M带宽-解锁流媒体
-      - 🇬🇧 英国1-1000M-解锁流媒体
-      - 🇬🇧 英国2-1000M-解锁流媒体
-      - 🇬🇧 英国3-1000M-解锁流媒体
-      - 🇩🇪 德国1-500M-解锁流媒体
-      - 🇩🇪 德国2-500M-解锁流媒体
-      - 🇩🇪 德国3-500M-解锁流媒体
-      - 🇷🇺 俄罗斯-100M
+      - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
+      - 🇺🇲 美国原生-更适合电信用户
+      - 🇺🇲 美国原生-更适合联通用户
       - 🇭🇰 HK1(IEPL)+-+负载均衡专线
       - 🇨🇳 TW1(IEPL)+-+负载均衡专线
       - 🇯🇵 JP1(IEPL)+-+负载均衡专线
@@ -156,25 +86,11 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🏳️‍🌈 香港原生1(最新更新时间7月14日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
       - 🇭🇰 香港原生2
-      - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡4-1000M带宽-解锁流媒体
-      - 🇯🇵 日本1-1000M带宽-解锁流媒体
-      - 🇯🇵 日本2-1000M带宽-解锁流媒体
-      - 🇯🇵 日本3-1000M带宽-解锁流媒体
-      - 🇨🇳 台湾1-600M带宽-解锁流媒体
-      - 🇨🇳 台湾2-600M带宽-解锁流媒体
-      - 🇨🇳 台湾3-600M带宽-解锁流媒体
-      - 🇬🇧 英国1-1000M-解锁流媒体
-      - 🇬🇧 英国2-1000M-解锁流媒体
-      - 🇬🇧 英国3-1000M-解锁流媒体
-      - 🇩🇪 德国1-500M-解锁流媒体
-      - 🇩🇪 德国2-500M-解锁流媒体
-      - 🇩🇪 德国3-500M-解锁流媒体
-      - 🇷🇺 俄罗斯-100M
+      - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
+      - 🇺🇲 美国原生-更适合电信用户
+      - 🇺🇲 美国原生-更适合联通用户
       - 🇭🇰 HK1(IEPL)+-+负载均衡专线
       - 🇨🇳 TW1(IEPL)+-+负载均衡专线
       - 🇯🇵 JP1(IEPL)+-+负载均衡专线
@@ -187,25 +103,11 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生1(最新更新时间7月14日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
       - 🇭🇰 香港原生2
-      - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡4-1000M带宽-解锁流媒体
-      - 🇯🇵 日本1-1000M带宽-解锁流媒体
-      - 🇯🇵 日本2-1000M带宽-解锁流媒体
-      - 🇯🇵 日本3-1000M带宽-解锁流媒体
-      - 🇨🇳 台湾1-600M带宽-解锁流媒体
-      - 🇨🇳 台湾2-600M带宽-解锁流媒体
-      - 🇨🇳 台湾3-600M带宽-解锁流媒体
-      - 🇬🇧 英国1-1000M-解锁流媒体
-      - 🇬🇧 英国2-1000M-解锁流媒体
-      - 🇬🇧 英国3-1000M-解锁流媒体
-      - 🇩🇪 德国1-500M-解锁流媒体
-      - 🇩🇪 德国2-500M-解锁流媒体
-      - 🇩🇪 德国3-500M-解锁流媒体
-      - 🇷🇺 俄罗斯-100M
+      - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
+      - 🇺🇲 美国原生-更适合电信用户
+      - 🇺🇲 美国原生-更适合联通用户
       - 🇭🇰 HK1(IEPL)+-+负载均衡专线
       - 🇨🇳 TW1(IEPL)+-+负载均衡专线
       - 🇯🇵 JP1(IEPL)+-+负载均衡专线
@@ -235,25 +137,11 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🏳️‍🌈 香港原生1(最新更新时间7月14日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
       - 🇭🇰 香港原生2
-      - 🇸🇬 新加坡1-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡2-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡3-1000M带宽-解锁流媒体
-      - 🇸🇬 新加坡4-1000M带宽-解锁流媒体
-      - 🇯🇵 日本1-1000M带宽-解锁流媒体
-      - 🇯🇵 日本2-1000M带宽-解锁流媒体
-      - 🇯🇵 日本3-1000M带宽-解锁流媒体
-      - 🇨🇳 台湾1-600M带宽-解锁流媒体
-      - 🇨🇳 台湾2-600M带宽-解锁流媒体
-      - 🇨🇳 台湾3-600M带宽-解锁流媒体
-      - 🇬🇧 英国1-1000M-解锁流媒体
-      - 🇬🇧 英国2-1000M-解锁流媒体
-      - 🇬🇧 英国3-1000M-解锁流媒体
-      - 🇩🇪 德国1-500M-解锁流媒体
-      - 🇩🇪 德国2-500M-解锁流媒体
-      - 🇩🇪 德国3-500M-解锁流媒体
-      - 🇷🇺 俄罗斯-100M
+      - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
+      - 🇺🇲 美国原生-更适合电信用户
+      - 🇺🇲 美国原生-更适合联通用户
       - 🇭🇰 HK1(IEPL)+-+负载均衡专线
       - 🇨🇳 TW1(IEPL)+-+负载均衡专线
       - 🇯🇵 JP1(IEPL)+-+负载均衡专线
