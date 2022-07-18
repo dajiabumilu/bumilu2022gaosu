@@ -1,23 +1,23 @@
 proxies:
-  - {name: 🏳️‍🌈 香港原生1(最新更新时间7月15日), server: 38.147.174.194, port: 43688, type: vmess, uuid: e96308d7-aa10-4a10-9061-21363a3bb935, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇭🇰 香港原生2, server: 38.147.174.246, port: 55976, type: vmess, uuid: 04594b3a-6cff-499a-89ee-85b0d3dcfcc4, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🏳️‍🌈 香港原生1(最新更新时间7月18日), server: 38.147.174.82, port: 46306, type: vmess, uuid: 76acbd7b-f243-4558-8e76-9878ea552cec, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🇭🇰 香港原生2, server: 38.147.174.110, port: 17152, type: vmess, uuid: dc6b68b8-8df8-4e57-b0a8-241d39389ac9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体, server: ru1.lolvps.xyz, port: 50151, type: vmess, uuid: 2b8e4fc6-0112-4b26-8c17-1bfef9a3ff99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /6129CFHR, ws-headers: {Host: ru1.lolvps.xyz}}
   - {name: 🇺🇲 美国原生-更适合电信用户, server: 107.150.8.128, port: 39837, type: vmess, uuid: f0324d28-6942-4f79-b7ee-e010a3da8f8b, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇺🇲 美国原生-更适合联通用户, server: 128.1.148.11, port: 43259, type: vmess, uuid: 92f2e6ac-b171-4691-ba81-717a40f86a92, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇭🇰 HK1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8010, type: ss, cipher: aes-128-gcm, password: 3e5aba14-ec0b-40b8-955e-4f6b5d4d9109}
-  - {name: 🇨🇳 TW1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8020, type: ss, cipher: aes-128-gcm, password: 3e5aba14-ec0b-40b8-955e-4f6b5d4d9109}
-  - {name: 🇯🇵 JP1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8030, type: ss, cipher: aes-128-gcm, password: 3e5aba14-ec0b-40b8-955e-4f6b5d4d9109}
-  - {name: 🇰🇷 KR1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8040, type: ss, cipher: aes-128-gcm, password: 3e5aba14-ec0b-40b8-955e-4f6b5d4d9109}
-  - {name: 🇸🇬 SG1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8050, type: ss, cipher: aes-128-gcm, password: 3e5aba14-ec0b-40b8-955e-4f6b5d4d9109}
-  - {name: 🇷🇺 RU1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8060, type: ss, cipher: aes-128-gcm, password: 3e5aba14-ec0b-40b8-955e-4f6b5d4d9109}
-  - {name: 🇺🇲 US1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8070, type: ss, cipher: aes-128-gcm, password: 3e5aba14-ec0b-40b8-955e-4f6b5d4d9109}
+  - {name: 🇭🇰 HK1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8010, type: ss, cipher: aes-128-gcm, password: 4f36e1cd-4e82-4976-b72a-2a3068b59433}
+  - {name: 🇨🇳 TW1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8020, type: ss, cipher: aes-128-gcm, password: 4f36e1cd-4e82-4976-b72a-2a3068b59433}
+  - {name: 🇯🇵 JP1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8030, type: ss, cipher: aes-128-gcm, password: 4f36e1cd-4e82-4976-b72a-2a3068b59433}
+  - {name: 🇰🇷 KR1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8040, type: ss, cipher: aes-128-gcm, password: 4f36e1cd-4e82-4976-b72a-2a3068b59433}
+  - {name: 🇸🇬 SG1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8050, type: ss, cipher: aes-128-gcm, password: 4f36e1cd-4e82-4976-b72a-2a3068b59433}
+  - {name: 🇷🇺 RU1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8060, type: ss, cipher: aes-128-gcm, password: 4f36e1cd-4e82-4976-b72a-2a3068b59433}
+  - {name: 🇺🇲 US1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8070, type: ss, cipher: aes-128-gcm, password: 4f36e1cd-4e82-4976-b72a-2a3068b59433}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月18日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生-更适合电信用户
@@ -34,7 +34,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月18日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生-更适合电信用户
@@ -52,7 +52,7 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月18日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生-更适合电信用户
@@ -69,7 +69,7 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月18日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生-更适合电信用户
@@ -86,7 +86,7 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月18日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生-更适合电信用户
@@ -103,7 +103,7 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月18日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生-更适合电信用户
@@ -137,7 +137,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🏳️‍🌈 香港原生1(最新更新时间7月15日)
+      - 🏳️‍🌈 香港原生1(最新更新时间7月18日)
       - 🇭🇰 香港原生2
       - 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体
       - 🇺🇲 美国原生-更适合电信用户
