@@ -1,26 +1,26 @@
 proxies:
-  - {name: 🏳️‍🌈 香港原生1(最新更新时间8月13日), server: 38.147.174.82, port: 57406, type: vmess, uuid: ba95a35e-4f9c-46e6-b6c6-f1b975079bb1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
+  - {name: 🏳️‍🌈 香港原生1(最新更新时间8月15日), server: 38.147.174.82, port: 57406, type: vmess, uuid: ba95a35e-4f9c-46e6-b6c6-f1b975079bb1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇭🇰 香港原生2, server: 38.147.174.110, port: 22239, type: vmess, uuid: ccd36452-206b-4793-bd25-90a19194d652, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇭🇰 香港原生1-更适合移动用户, server: hk1.lolvps.xyz, port: 46431, type: vmess, uuid: 0cae403b-2082-44f0-af78-ba83aeb82ba8, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /T1X1DKLN, ws-headers: {Host: hk1.lolvps.xyz}}
   - {name: 🇭🇰 香港原生2-更适合移动用户, server: 38.55.98.99, port: 29455, type: vmess, uuid: f423b51b-d690-4f70-b11e-9ae1aa8c29f1, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体, server: ru1.lolvps.xyz, port: 50217, type: vmess, uuid: 2b8e4fc6-0112-4b26-8c17-1bfef9a3ff99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /6129CFHR, ws-headers: {Host: ru1.lolvps.xyz}}
-  - {name: 🇷🇺 俄罗斯原生2-负载均衡-解锁流媒体, server: ru2.lolvps.xyz, port: 50328, type: vmess, uuid: 882fe300-feb5-4e7b-b272-829e791755ee, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /J56OYLY9, ws-headers: {Host: ru2.lolvps.xyz}}
+  - {name: 🇷🇺 俄罗斯原生1-负载均衡-解锁流媒体, server: ru1.lolvps.xyz, port: 50717, type: vmess, uuid: 2b8e4fc6-0112-4b26-8c17-1bfef9a3ff99, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /6129CFHR, ws-headers: {Host: ru1.lolvps.xyz}}
+  - {name: 🇷🇺 俄罗斯原生2-负载均衡-解锁流媒体, server: ru2.lolvps.xyz, port: 50728, type: vmess, uuid: 882fe300-feb5-4e7b-b272-829e791755ee, alterId: 0, cipher: auto, tls: true, skip-cert-verify: false, network: ws, ws-path: /J56OYLY9, ws-headers: {Host: ru2.lolvps.xyz}}
   - {name: 🇺🇲 美国原生1, server: 107.150.8.128, port: 47714, type: vmess, uuid: 47b09d32-a9a7-4dfc-b284-1113082192c3, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
   - {name: 🇺🇲 美国原生2, server: 107.150.8.192, port: 51518, type: vmess, uuid: 38a6c608-a57f-48c5-8f60-d6aaea37d6e9, alterId: 0, cipher: auto, tls: false, skip-cert-verify: false}
-  - {name: 🇭🇰 HK1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8010, type: ss, cipher: aes-128-gcm, password: 0696cada-ee33-49df-a207-7cfac5977654}
-  - {name: 🇨🇳 TW1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8020, type: ss, cipher: aes-128-gcm, password: 0696cada-ee33-49df-a207-7cfac5977654}
-  - {name: 🇯🇵 JP1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8030, type: ss, cipher: aes-128-gcm, password: 0696cada-ee33-49df-a207-7cfac5977654}
-  - {name: 🇰🇷 KR1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8040, type: ss, cipher: aes-128-gcm, password: 0696cada-ee33-49df-a207-7cfac5977654}
-  - {name: 🇸🇬 SG1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8050, type: ss, cipher: aes-128-gcm, password: 0696cada-ee33-49df-a207-7cfac5977654}
-  - {name: 🇷🇺 RU1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8060, type: ss, cipher: aes-128-gcm, password: 0696cada-ee33-49df-a207-7cfac5977654}
-  - {name: 🇺🇲 US1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8070, type: ss, cipher: aes-128-gcm, password: 0696cada-ee33-49df-a207-7cfac5977654}
+  - {name: 🇭🇰 HK1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8010, type: ss, cipher: aes-128-gcm, password: 12f15dd3-19b2-4944-af82-f959331751ae}
+  - {name: 🇨🇳 TW1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8020, type: ss, cipher: aes-128-gcm, password: 12f15dd3-19b2-4944-af82-f959331751ae}
+  - {name: 🇯🇵 JP1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8030, type: ss, cipher: aes-128-gcm, password: 12f15dd3-19b2-4944-af82-f959331751ae}
+  - {name: 🇰🇷 KR1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8040, type: ss, cipher: aes-128-gcm, password: 12f15dd3-19b2-4944-af82-f959331751ae}
+  - {name: 🇸🇬 SG1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8050, type: ss, cipher: aes-128-gcm, password: 12f15dd3-19b2-4944-af82-f959331751ae}
+  - {name: 🇷🇺 RU1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8060, type: ss, cipher: aes-128-gcm, password: 12f15dd3-19b2-4944-af82-f959331751ae}
+  - {name: 🇺🇲 US1(IEPL)+-+负载均衡专线, server: ftp.cn.debian.cdnet.in, port: 8070, type: ss, cipher: aes-128-gcm, password: 12f15dd3-19b2-4944-af82-f959331751ae}
 proxy-groups:
   - name: 🚀 节点选择
     type: select
     proxies:
       - ♻️ 自动选择
       - DIRECT
-      - 🏳️‍🌈 香港原生1(最新更新时间8月13日)
+      - 🏳️‍🌈 香港原生1(最新更新时间8月15日)
       - 🇭🇰 香港原生2
       - 🇭🇰 香港原生1-更适合移动用户
       - 🇭🇰 香港原生2-更适合移动用户
@@ -40,7 +40,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - 🏳️‍🌈 香港原生1(最新更新时间8月13日)
+      - 🏳️‍🌈 香港原生1(最新更新时间8月15日)
       - 🇭🇰 香港原生2
       - 🇭🇰 香港原生1-更适合移动用户
       - 🇭🇰 香港原生2-更适合移动用户
@@ -61,7 +61,7 @@ proxy-groups:
       - 🚀 节点选择
       - ♻️ 自动选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生1(最新更新时间8月13日)
+      - 🏳️‍🌈 香港原生1(最新更新时间8月15日)
       - 🇭🇰 香港原生2
       - 🇭🇰 香港原生1-更适合移动用户
       - 🇭🇰 香港原生2-更适合移动用户
@@ -81,7 +81,7 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生1(最新更新时间8月13日)
+      - 🏳️‍🌈 香港原生1(最新更新时间8月15日)
       - 🇭🇰 香港原生2
       - 🇭🇰 香港原生1-更适合移动用户
       - 🇭🇰 香港原生2-更适合移动用户
@@ -101,7 +101,7 @@ proxy-groups:
     proxies:
       - 🎯 全球直连
       - 🚀 节点选择
-      - 🏳️‍🌈 香港原生1(最新更新时间8月13日)
+      - 🏳️‍🌈 香港原生1(最新更新时间8月15日)
       - 🇭🇰 香港原生2
       - 🇭🇰 香港原生1-更适合移动用户
       - 🇭🇰 香港原生2-更适合移动用户
@@ -121,7 +121,7 @@ proxy-groups:
     proxies:
       - 🚀 节点选择
       - 🎯 全球直连
-      - 🏳️‍🌈 香港原生1(最新更新时间8月13日)
+      - 🏳️‍🌈 香港原生1(最新更新时间8月15日)
       - 🇭🇰 香港原生2
       - 🇭🇰 香港原生1-更适合移动用户
       - 🇭🇰 香港原生2-更适合移动用户
@@ -158,7 +158,7 @@ proxy-groups:
       - 🚀 节点选择
       - 🎯 全球直连
       - ♻️ 自动选择
-      - 🏳️‍🌈 香港原生1(最新更新时间8月13日)
+      - 🏳️‍🌈 香港原生1(最新更新时间8月15日)
       - 🇭🇰 香港原生2
       - 🇭🇰 香港原生1-更适合移动用户
       - 🇭🇰 香港原生2-更适合移动用户
